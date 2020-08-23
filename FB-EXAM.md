@@ -1,6 +1,6 @@
 ## 一、广告术语 (填空)
 #### 00.Google Analytics	(谷歌流量分析工具)
-#### 01.Facebook Ads	Facebook 广告
+#### 01.Facebook Ads	(Facebook 广告)
 #### 02.Campaigns	(广告系列)
 #### 03.Ad Sets	(广告组)
 #### 04.Ads	(广告)
@@ -11,7 +11,7 @@
 #### 09.add to cart (ATC)	(加购)
 #### 10.purchases (PUR)	(购买量，订单量)
 #### 11.CPM	(千次展示成本)
-#### 12.CPC (单次链接单击成本)
+#### 12.CPC	(单次链接单击成本)
 #### 13.CTR	(点击率)
 #### 14.CVR	(转化率)
 #### 15.ROAS	(广告支出回报率)
